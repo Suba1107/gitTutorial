@@ -1,4 +1,6 @@
 this is sample text
 file updating
 updated new changes on same line
+new code changes
+
 [A[A[T
