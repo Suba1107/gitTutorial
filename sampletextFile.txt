@@ -1,3 +1,4 @@
 this is sample text
+file updating
 
 [A[A[T
