@@ -1,4 +1,4 @@
 this is sample text
 file updating
-
+new code changes
 [A[A[T
